@@ -1,24 +1,40 @@
 # Sayed Ali (Sayod 111)
 
-Almost every public scraping repo is a fragile browser demo that breaks the moment a site changes layout or tightens rate limits.
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/sayod111/sayod111-mcp-servers)
+[![Apify Creator](https://img.shields.io/badge/Apify%20Store-Verified%20Creator-10B981?style=flat-square)](https://apify.com/sayod111)
+[![Developer Portal](https://img.shields.io/badge/Portal-sayod111.github.io-E5B94B?style=flat-square)](https://sayod111.github.io)
 
-I build the opposite under Sayod 111. My production codebases stay private and deploy directly to Apify Cloud and Cloudflare Edge, running over pure async HTTP/2 with strict schema validation, deterministic change tracking, and hard failure guards.
+Founder of **Sayod 111**. I build pure async HTTP/2 commercial data engines and MCP infrastructure that replace slow headless-browser scrapers and cut Clay Action usage by up to 91%.
 
-## Live Production Infrastructure on Apify Cloud
+## Flagship Production Infrastructure on Apify Cloud
 
-- **CommercePulse Pro (Storefront Audit and Catalog Intelligence):** Pure HTTP/2 e-commerce auditor covering Shopify, WooCommerce, BigCommerce, Magento, PrestaShop, Salla, and Zid. Extracts 78 structured fields including 85+ app and ad-pixel IDs, SEO/CRO technical defects, MX-verified merchant contacts, and catalog pricing stats. https://apify.com/sayod111/commercepulse-pro
-- **B2B Revenue Intelligence and Lead Enricher:** Extracts 97 fields per company domain including publicly listed corporate contacts, live DNS MX/SPF/DMARC security audits, 110+ technology fingerprints, and ranked agency ICP scores. https://apify.com/sayod111/b2b-revenue-lead-enricher-mcp
-- **B2B Hiring Intent 7-ATS Scanner:** Extracts live open roles across Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee, and BreezyHR with 6 B2B buying intent categories, hiring velocity, and corporate contacts. https://apify.com/sayod111/b2b-hiring-intent-ats-mcp
+| Engine | Focus & Flat Output Contract | Apify Store |
+|---|---|---|
+| **WealthPulse V3.5 (SEC Form ADV & RIA Intel)** | 24,000+ U.S. SEC RIAs streamed in ~7.2s into 45 flat columns: AUM bands, weekly AUM diff, client segments, verified Item 11 disclosures, custody, clean domains | Cloud-tested · Store publication pending |
+| **SaaS Trust Center, SOC 2 & AI Subprocessor Audit** | Bulk DNS + HTTP/2 auditor for Vanta, Drata, SafeBase, Secureframe, AI subprocessors, IAM/SSO, and RFC 9116 `security.txt` (22 flat columns) | Cloud-tested · Store publication pending |
+| **CommercePulse Pro** | Multi-platform e-commerce auditor across Shopify, WooCommerce, BigCommerce, Magento, PrestaShop, Salla, and Zid (85+ apps, ad pixels, CRO/SEO) | [apify.com/sayod111/commercepulse-pro](https://apify.com/sayod111/commercepulse-pro) |
+| **Shopify Tech Stack, Klaviyo & Ad Pixel Auditor** | High-speed Shopify agency qualifier detecting Klaviyo retention gaps and exact Meta, TikTok, and Google Ads pixel IDs | [apify.com/sayod111/shopify-klaviyo-pixel-auditor](https://apify.com/sayod111/shopify-klaviyo-pixel-auditor) |
+| **Bulk Domain DMARC, SPF & MX Security Auditor** | Live DNS email security and deliverability checks built for MSPs, vCISOs, and outbound teams | [apify.com/sayod111/dmarc-spf-mx-deliverability-auditor](https://apify.com/sayod111/dmarc-spf-mx-deliverability-auditor) |
+| **B2B Revenue Intelligence (97-Field Enricher)** | 97 flat ICP columns per domain combining 110+ tech fingerprints, DNS security, and public corporate contacts | [apify.com/sayod111/b2b-revenue-lead-enricher-mcp](https://apify.com/sayod111/b2b-revenue-lead-enricher-mcp) |
+| **B2B Hiring Intent 7-ATS Scanner** | Live roles and 6 buying-intent signals across Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee, and BreezyHR | [apify.com/sayod111/b2b-hiring-intent-ats-mcp](https://apify.com/sayod111/b2b-hiring-intent-ats-mcp) |
+| **Magento & BigCommerce Store Intel** | Merchant technology and catalog signals | [Apify Store](https://apify.com/sayod111/magento-bigcommerce-store-intel) |
+| **Multi-ATS Hiring Tracker** | Open roles across recruiting platforms | [Apify Store](https://apify.com/sayod111/workable-recruitee-breezy-ats) |
+| **Website Tech Stack Detector** | Public website technology | [Apify Store](https://apify.com/sayod111/website-tech-stack-detector) |
+| **Ashby & Greenhouse Hiring Intent** | Startup hiring signals | Store publication pending |
+| **WooCommerce Store Audit** | Merchant platform and marketing tags | Store publication pending |
+| **Shopify Catalog Pricing** | Product prices and inventory | Store publication pending |
+| **Agency ICP Lead Qualifier** | Company qualification fields | Store publication pending |
+| **Ad Pixel & Marketing Tag Detector** | Public advertising tags | Store publication pending |
 
-## AI Agent MCP and REST API Access
-
-- **Official MCP Server Repository:** https://github.com/sayod111/sayod111-mcp-servers
-- **Remote Apify MCP Endpoint (Claude, Cursor, ChatGPT, VS Code):** `https://mcp.apify.com/?tools=sayod111/commercepulse-pro,sayod111/b2b-revenue-lead-enricher-mcp,sayod111/b2b-hiring-intent-ats-mcp`
-- **Postman Public API Network:** https://www.postman.com/s-ali-mohamed-bh-2153051/sayod-111-intelligence-apis/overview
-- **Verified Apify Creator Profile:** https://apify.com/sayod111
+## AI Agent MCP, Automation & Developer Channels
+- **Approved on mcpservers.org:** Live directory listing for `Sayod 111 B2B and E-Commerce Intelligence`
+- **Cloudflare Streamable HTTP MCP Gateway:** `https://sayod111-mcp-gateway.sayodyalawi.workers.dev/mcp`
+- **Apify Hosted MCP Endpoint:** `https://mcp.apify.com/?tools=sayod111/commercepulse-pro,sayod111/b2b-revenue-lead-enricher-mcp,sayod111/b2b-hiring-intent-ats-mcp,sayod111/dmarc-spf-mx-deliverability-auditor`
+- **Free Production n8n Templates (7 JSON Workflows):** [github.com/sayod111/sayod111-n8n-templates](https://github.com/sayod111/sayod111-n8n-templates)
+- **Developer Portal & Live Pricing:** [sayod111.github.io](https://sayod111.github.io)
+- **Postman Public API Workspace:** [postman.com/s-ali-mohamed-bh](https://www.postman.com/s-ali-mohamed-bh-2153051/sayod-111-intelligence-apis/overview)
 
 ## Engineering Standards
-
-Zero bloated headless browsers where pure async HTTP/2 runs faster and at a fraction of the compute cost. Native Arabic and English parsing inside one codebase covering Western DTC brands and Gulf commerce with identical precision. Automated test suites before every cloud push, holding production reliability above 99%.
-
-I do not write throwaway scripts and I do not take generic freelance tasks. For private enterprise extraction infrastructure or dedicated monitoring pipelines built to hold under volume, contact me directly on Apify or GitHub under `sayod111`.
+- Zero bloated headless browsers and zero residential proxies where pure async HTTP/2 and DNS run at a fraction of the compute cost.
+- Strict null integrity: unreported regulatory or compliance fields stay explicit `null` or `unknown_unreported` rather than silent zeros.
+- Strictly flat `snake_case` datasets built to drop straight into Clay, n8n, Make, PostgreSQL, and AI agents on the first call.
