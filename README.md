@@ -17,9 +17,9 @@ Founder of **Sayod 111**. I build pure async HTTP/2 commercial data engines and 
 | **Bulk Domain DMARC, SPF & MX Security Auditor** | Live DNS email security and deliverability checks built for MSPs, vCISOs, and outbound teams | [apify.com/sayod111/dmarc-spf-mx-deliverability-auditor](https://apify.com/sayod111/dmarc-spf-mx-deliverability-auditor) |
 | **B2B Revenue Intelligence (97-Field Enricher)** | 97 flat ICP columns per domain combining 110+ tech fingerprints, DNS security, and public corporate contacts | [apify.com/sayod111/b2b-revenue-lead-enricher-mcp](https://apify.com/sayod111/b2b-revenue-lead-enricher-mcp) |
 | **B2B Hiring Intent 7-ATS Scanner** | Live roles and 6 buying-intent signals across Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee, and BreezyHR | [apify.com/sayod111/b2b-hiring-intent-ats-mcp](https://apify.com/sayod111/b2b-hiring-intent-ats-mcp) |
-| **Magento & BigCommerce Store Intel** | Merchant technology and catalog signals | [Apify Store](https://apify.com/sayod111/magento-bigcommerce-store-intel) |
-| **Multi-ATS Hiring Tracker** | Open roles across recruiting platforms | [Apify Store](https://apify.com/sayod111/workable-recruitee-breezy-ats) |
-| **Website Tech Stack Detector** | Public website technology | [Apify Store](https://apify.com/sayod111/website-tech-stack-detector) |
+| **Magento & BigCommerce Store Intel** | Merchant technology and catalog signals | [magento-bigcommerce-store-intel](https://apify.com/sayod111/magento-bigcommerce-store-intel) |
+| **Multi-ATS Hiring Tracker** | Open roles across recruiting platforms | [workable-recruitee-breezy-ats](https://apify.com/sayod111/workable-recruitee-breezy-ats) |
+| **Website Tech Stack Detector** | Public website technology | [website-tech-stack-detector](https://apify.com/sayod111/website-tech-stack-detector) |
 | **Ashby & Greenhouse Hiring Intent** | Startup hiring signals | Store publication pending |
 | **WooCommerce Store Audit** | Merchant platform and marketing tags | Store publication pending |
 | **Shopify Catalog Pricing** | Product prices and inventory | Store publication pending |
