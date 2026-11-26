@@ -11,12 +11,12 @@ Founder of **Sayod 111**. I build pure async HTTP/2 commercial data engines and 
 
 | Engine | Focus & Flat Output Contract | Apify Store |
 |---|---|---|
-| **WealthPulse V3.5 (SEC Form ADV & RIA Intel)** | 24,000+ U.S. SEC RIAs streamed in ~7.2s into 45 flat columns: AUM bands, weekly AUM diff, client segments, verified Item 11 disclosures, custody, clean domains | Cloud-tested · Store publication pending |
-| **SaaS Trust Center, SOC 2 & AI Subprocessor Audit** | Bulk DNS + HTTP/2 auditor for Vanta, Drata, SafeBase, Secureframe, AI subprocessors, IAM/SSO, and RFC 9116 `security.txt` (22 flat columns) | Cloud-tested · Store publication pending |
-| **US Healthcare KOL & NPI Enricher (CMS + Medicare)** | Keyless 3-way federal join across CMS NPPES, Open Payments, and Medicare Part B + Revocations ($12/1K, 22 flat columns) | Cloud-tested, Store publication pending |
+| **WealthPulse V3.5 (SEC Form ADV & RIA Intel)** | 24,000+ U.S. SEC RIAs streamed in ~7.2s into 45 flat columns: AUM bands, weekly AUM diff, client segments, verified Item 11 disclosures, custody, clean domains | [Apify Store](https://apify.com/sayod111/sec-ria-wealthpulse) |
+| **SaaS Trust Center, SOC 2 & AI Subprocessor Audit** | Bulk DNS + HTTP/2 auditor for Vanta, Drata, SafeBase, Secureframe, AI subprocessors, IAM/SSO, and RFC 9116 `security.txt` (22 flat columns) | [Apify Store](https://apify.com/sayod111/saas-trust-center-audit) |
+| **US Healthcare KOL & NPI Enricher (CMS + Medicare)** | Keyless 3-way federal join across CMS NPPES, Open Payments, and Medicare Part B + Revocations ($12/1K, 22 flat columns) | [Apify Store](https://apify.com/sayod111/us-healthcare-kol-cms-enricher) |
 | **US SLED Government Bids & RFP Monitor** | Unified RFPs across 30+ Bonfire portals and NYC City Record Procurement API ($8/1K, 22 flat columns) | Cloud-tested, Store publication pending |
-| **US UCC-1 Secured Loan & Refinance Leads** | Multi-state Colorado + Connecticut business UCC-1 liens with masked-agent flags & lapse countdowns ($15/1K, 22 flat columns) | Verified, Store publication pending |
-| **Biotech & MedTech Grants, Trials & FDA 510k** | Keyless 3-agency join across NIH RePORTER v2, ClinicalTrials.gov v2, and openFDA 510(k) ($15/1K, 22 flat columns) | Verified, Store publication pending |
+| **US UCC-1 Secured Loan & Refinance Leads** | Multi-state Colorado + Connecticut business UCC-1 liens with masked-agent flags & lapse countdowns ($15/1K, 22 flat columns) | [Apify Store](https://apify.com/sayod111/us-ucc-1-secured-loan-leads) |
+| **Biotech & MedTech Grants, Trials & FDA 510k** | Keyless 3-agency join across NIH RePORTER v2, ClinicalTrials.gov v2, and openFDA 510(k) ($15/1K, 22 flat columns) | [Apify Store](https://apify.com/sayod111/us-biotech-grants-trials-fda510k) |
 | **CommercePulse Pro** | Multi-platform e-commerce auditor across Shopify, WooCommerce, BigCommerce, Magento, PrestaShop, Salla, and Zid (85+ apps, ad pixels, CRO/SEO) | [apify.com/sayod111/commercepulse-pro](https://apify.com/sayod111/commercepulse-pro) |
 | **Shopify Tech Stack, Klaviyo & Ad Pixel Auditor** | High-speed Shopify agency qualifier detecting Klaviyo retention gaps and exact Meta, TikTok, and Google Ads pixel IDs | [apify.com/sayod111/shopify-klaviyo-pixel-auditor](https://apify.com/sayod111/shopify-klaviyo-pixel-auditor) |
 | **Bulk Domain DMARC, SPF & MX Security Auditor** | Live DNS email security and deliverability checks built for MSPs, vCISOs, and outbound teams | [apify.com/sayod111/dmarc-spf-mx-deliverability-auditor](https://apify.com/sayod111/dmarc-spf-mx-deliverability-auditor) |
@@ -37,7 +37,7 @@ Founder of **Sayod 111**. I build pure async HTTP/2 commercial data engines and 
 - **Apify Hosted MCP Endpoint:** `https://mcp.apify.com/?tools=sayod111/commercepulse-pro,sayod111/b2b-revenue-lead-enricher-mcp,sayod111/b2b-hiring-intent-ats-mcp,sayod111/dmarc-spf-mx-deliverability-auditor`
 - **Free Production n8n Templates (11 JSON Workflows):** [github.com/sayod111/sayod111-n8n-templates](https://github.com/sayod111/sayod111-n8n-templates)
 - **Developer Portal & Live Pricing:** [sayod111.github.io](https://sayod111.github.io)
-- **Postman Public API Workspace:** [postman.com/s-ali-mohamed-bh](https://www.postman.com/s-ali-mohamed-bh-2153051/sayod-111-intelligence-apis/overview)
+- **Radar API resources** [API playground](https://sayod111-radar.pages.dev/playground.html) · [OpenAPI](https://sayod111-radar.pages.dev/openapi.json) · [Provenance](https://sayod111-radar.pages.dev/provenance.html) · [SEC Form D](https://sayod111-radar.pages.dev/sec-form-d-radar.html) · [Federal contracts](https://sayod111-radar.pages.dev/federal-recompetes-radar.html) · [Freight carriers](https://sayod111-radar.pages.dev/fmcsa-freight-radar.html) · [EU and UK tenders](https://sayod111-radar.pages.dev/eu-uk-tenders-radar.html)
 
 - [Hosted MCP directory entry, merged in PR #5881](https://github.com/punkpeye/awesome-remote-mcp-servers/pull/5881)
 
