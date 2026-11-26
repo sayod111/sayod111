@@ -3,7 +3,7 @@
 [![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/sayod111/sayod111-mcp-servers)
 [![mcptry](https://mcptry.com/badge/io.github.sayod111/sayod111-intelligence-mcp)](https://mcptry.com/servers/io.github.sayod111/sayod111-intelligence-mcp)
 [![Apify Creator](https://img.shields.io/badge/Apify%20Store-Verified%20Creator-10B981?style=flat-square)](https://apify.com/sayod111)
-[![Developer Portal](https://img.shields.io/badge/Portal-sayod111.github.io-E5B94B?style=flat-square)](https://sayod111.github.io)
+[![Developer Portal](https://img.shields.io/badge/Portal-sayod111.com-E5B94B?style=flat-square)](https://sayod111.com)
 
 Founder of **Sayod 111**. I build pure async HTTP/2 commercial data engines and MCP infrastructure that replace slow headless-browser scrapers and cut Clay Action usage by up to 91%.
 
@@ -33,11 +33,12 @@ Founder of **Sayod 111**. I build pure async HTTP/2 commercial data engines and 
 
 ## AI Agent MCP, Automation & Developer Channels
 - **Approved on mcpservers.org:** Live directory listing for `Sayod 111 B2B and E-Commerce Intelligence`
-- **Cloudflare Streamable HTTP MCP Gateway:** `https://sayod111-mcp-gateway.sayodyalawi.workers.dev/mcp`
+- **Cloudflare Streamable HTTP MCP Gateway:** `https://mcp.sayod111.com/mcp`
 - **Apify Hosted MCP Endpoint:** `https://mcp.apify.com/?tools=sayod111/commercepulse-pro,sayod111/b2b-revenue-lead-enricher-mcp,sayod111/b2b-hiring-intent-ats-mcp,sayod111/dmarc-spf-mx-deliverability-auditor`
 - **Free Production n8n Templates (11 JSON Workflows):** [github.com/sayod111/sayod111-n8n-templates](https://github.com/sayod111/sayod111-n8n-templates)
-- **Developer Portal & Live Pricing:** [sayod111.github.io](https://sayod111.github.io)
-- **Radar API resources** [API playground](https://sayod111-radar.pages.dev/playground.html) · [OpenAPI](https://sayod111-radar.pages.dev/openapi.json) · [Provenance](https://sayod111-radar.pages.dev/provenance.html) · [SEC Form D](https://sayod111-radar.pages.dev/sec-form-d-radar.html) · [Federal contracts](https://sayod111-radar.pages.dev/federal-recompetes-radar.html) · [Freight carriers](https://sayod111-radar.pages.dev/fmcsa-freight-radar.html) · [EU and UK tenders](https://sayod111-radar.pages.dev/eu-uk-tenders-radar.html)
+- **Developer Portal & Live Pricing:** [sayod111.com](https://sayod111.com)
+- [API](https://api.sayod111.com) · [Benchmarks](https://benchmarks.sayod111.com) · [ROI calculator](https://sayod111.com/roi-calculator.html) · [Data inquiries](mailto:data@sayod111.com)
+- **Radar API resources** [API playground](https://sayod111.com/playground.html) · [OpenAPI](https://sayod111.com/openapi.json) · [Provenance](https://sayod111.com/provenance.html) · [SEC Form D](https://sayod111.com/sec-form-d-radar.html) · [Federal contracts](https://sayod111.com/federal-recompetes-radar.html) · [Freight carriers](https://sayod111.com/fmcsa-freight-radar.html) · [EU and UK tenders](https://sayod111.com/eu-uk-tenders-radar.html)
 
 - [Hosted MCP directory entry, merged in PR #5881](https://github.com/punkpeye/awesome-remote-mcp-servers/pull/5881)
 
