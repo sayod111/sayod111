@@ -1,48 +1,44 @@
-# Sayed Ali (Sayod 111)
+# SAYOD 111 | Sovereign Commercial & Regulatory Intelligence
 
-[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/sayod111/sayod111-mcp-servers)
-[![mcptry](https://mcptry.com/badge/io.github.sayod111/sayod111-intelligence-mcp)](https://mcptry.com/servers/io.github.sayod111/sayod111-intelligence-mcp)
-[![Apify Creator](https://img.shields.io/badge/Apify%20Store-Verified%20Creator-10B981?style=flat-square)](https://apify.com/sayod111)
-[![Developer Portal](https://img.shields.io/badge/Portal-sayod111.com-E5B94B?style=flat-square)](https://sayod111.com)
+**Signals before consensus.** Eight live public-source commercial and regulatory intelligence networks delivered over Cloudflare Edge REST API and Stateless Streamable HTTP MCP with strict Tri-State Null Integrity (`0.0%` silent zeroes).
 
-Founder of **Sayod 111**. I build pure async HTTP/2 commercial data engines and MCP infrastructure that replace slow headless-browser scrapers and cut Clay Action usage by up to 91%.
+| Resource | Live Endpoint |
+|---|---|
+| Flagship Platform & CFO Estimator | https://sayod111.com/ |
+| Institutional Data Room (16 PII-Free Samples & DDQ) | https://sayod111.com/data-room |
+| 8-Slide Institutional Executive Deck | https://sayod111.com/deck |
+| System Status & 99.5% Monthly SLO | https://sayod111.com/status |
+| Stateless Read-Only MCP Gateway (8 Tools) | `https://mcp.sayod111.com/mcp` |
+| OpenAPI 3.1.0 Specification | https://sayod111.com/openapi.json |
+| Institutional Buyer Benchmarks (56 Guides) | https://benchmarks.sayod111.com/ |
 
-## Flagship Production Infrastructure on Apify Cloud
+## Free Verification Tools (No Account Required)
+- **3-Domain Batch Audit (Shopify/Klaviyo & DMARC/Trust):** https://sayod111.com/batch-audit
+- **SEC Form ADV RIA & Item 11 Lookup (12,019+ Index):** https://sayod111.com/sec-lookup
+- **U.S. Federal Recompete Finder ($500K+ Expiring Awards):** https://sayod111.com/recompete-finder
+- **Executive DMARC & Trust Center Scorecard (Printable PDF):** https://sayod111.com/dmarc-scorecard
+- **1-Click Clay BYOK, Claude MCP, n8n & LangGraph Config Generator:** https://sayod111.com/clay-generator
 
-| Engine | Focus & Flat Output Contract | Apify Store |
-|---|---|---|
-| **WealthPulse V3.5 (SEC Form ADV & RIA Intel)** | 24,000+ U.S. SEC RIAs streamed in ~7.2s into 45 flat columns: AUM bands, weekly AUM diff, client segments, verified Item 11 disclosures, custody, clean domains | [Apify Store](https://apify.com/sayod111/sec-ria-wealthpulse) |
-| **SaaS Trust Center, SOC 2 & AI Subprocessor Audit** | Bulk DNS + HTTP/2 auditor for Vanta, Drata, SafeBase, Secureframe, AI subprocessors, IAM/SSO, and RFC 9116 `security.txt` (22 flat columns) | [Apify Store](https://apify.com/sayod111/saas-trust-center-audit) |
-| **US Healthcare KOL & NPI Enricher (CMS + Medicare)** | Keyless 3-way federal join across CMS NPPES, Open Payments, and Medicare Part B + Revocations ($12/1K, 22 flat columns) | [Apify Store](https://apify.com/sayod111/us-healthcare-kol-cms-enricher) |
-| **US SLED Government Bids & RFP Monitor** | Unified RFPs across 30+ Bonfire portals and NYC City Record Procurement API ($8/1K, 22 flat columns) | Cloud-tested, Store publication pending |
-| **US UCC-1 Secured Loan & Refinance Leads** | Multi-state Colorado + Connecticut business UCC-1 liens with masked-agent flags & lapse countdowns ($15/1K, 22 flat columns) | [Apify Store](https://apify.com/sayod111/us-ucc-1-secured-loan-leads) |
-| **Biotech & MedTech Grants, Trials & FDA 510k** | Keyless 3-agency join across NIH RePORTER v2, ClinicalTrials.gov v2, and openFDA 510(k) ($15/1K, 22 flat columns) | [Apify Store](https://apify.com/sayod111/us-biotech-grants-trials-fda510k) |
-| **CommercePulse Pro** | Multi-platform e-commerce auditor across Shopify, WooCommerce, BigCommerce, Magento, PrestaShop, Salla, and Zid (85+ apps, ad pixels, CRO/SEO) | [apify.com/sayod111/commercepulse-pro](https://apify.com/sayod111/commercepulse-pro) |
-| **Shopify Tech Stack, Klaviyo & Ad Pixel Auditor** | High-speed Shopify agency qualifier detecting Klaviyo retention gaps and exact Meta, TikTok, and Google Ads pixel IDs | [apify.com/sayod111/shopify-klaviyo-pixel-auditor](https://apify.com/sayod111/shopify-klaviyo-pixel-auditor) |
-| **Bulk Domain DMARC, SPF & MX Security Auditor** | Live DNS email security and deliverability checks built for MSPs, vCISOs, and outbound teams | [apify.com/sayod111/dmarc-spf-mx-deliverability-auditor](https://apify.com/sayod111/dmarc-spf-mx-deliverability-auditor) |
-| **B2B Revenue Intelligence (97-Field Enricher)** | 97 flat ICP columns per domain combining 110+ tech fingerprints, DNS security, and public corporate contacts | [apify.com/sayod111/b2b-revenue-lead-enricher-mcp](https://apify.com/sayod111/b2b-revenue-lead-enricher-mcp) |
-| **B2B Hiring Intent 7-ATS Scanner** | Live roles and 6 buying-intent signals across Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee, and BreezyHR | [apify.com/sayod111/b2b-hiring-intent-ats-mcp](https://apify.com/sayod111/b2b-hiring-intent-ats-mcp) |
-| **Magento & BigCommerce Store Intel** | Merchant technology and catalog signals | [magento-bigcommerce-store-intel](https://apify.com/sayod111/magento-bigcommerce-store-intel) |
-| **Multi-ATS Hiring Tracker** | Open roles across recruiting platforms | [workable-recruitee-breezy-ats](https://apify.com/sayod111/workable-recruitee-breezy-ats) |
-| **Website Tech Stack Detector** | Public website technology | [website-tech-stack-detector](https://apify.com/sayod111/website-tech-stack-detector) |
-| **Ashby & Greenhouse Hiring Intent** | Startup hiring signals | Store publication pending |
-| **WooCommerce Store Audit** | Merchant platform and marketing tags | Store publication pending |
-| **Shopify Catalog Pricing** | Product prices and inventory | Store publication pending |
-| **Agency ICP Lead Qualifier** | Company qualification fields | Store publication pending |
-| **Ad Pixel & Marketing Tag Detector** | Public advertising tags | Store publication pending |
+## Eight Live Intelligence Networks (16,010+ Verified Public Records)
 
-## AI Agent MCP, Automation & Developer Channels
-- **Approved on mcpservers.org:** Live directory listing for `Sayod 111 B2B and E-Commerce Intelligence`
-- **Cloudflare Streamable HTTP MCP Gateway:** `https://mcp.sayod111.com/mcp`
-- **Apify Hosted MCP Endpoint:** `https://mcp.apify.com/?tools=sayod111/commercepulse-pro,sayod111/b2b-revenue-lead-enricher-mcp,sayod111/b2b-hiring-intent-ats-mcp,sayod111/dmarc-spf-mx-deliverability-auditor`
-- **Free Production n8n Templates (11 JSON Workflows):** [github.com/sayod111/sayod111-n8n-templates](https://github.com/sayod111/sayod111-n8n-templates)
-- **Developer Portal & Live Pricing:** [sayod111.com](https://sayod111.com)
-- [API](https://api.sayod111.com) · [Benchmarks](https://benchmarks.sayod111.com) · [ROI calculator](https://sayod111.com/roi-calculator.html) · [Data inquiries](mailto:data@sayod111.com)
-- **Radar API resources** [API playground](https://sayod111.com/playground.html) · [OpenAPI](https://sayod111.com/openapi.json) · [Provenance](https://sayod111.com/provenance.html) · [SEC Form D](https://sayod111.com/sec-form-d-radar.html) · [Federal contracts](https://sayod111.com/federal-recompetes-radar.html) · [Freight carriers](https://sayod111.com/fmcsa-freight-radar.html) · [EU and UK tenders](https://sayod111.com/eu-uk-tenders-radar.html)
+| # | Network | Source & Provenance | Coverage |
+|---|---|---|---|
+| 01 | Private Capital | SEC EDGAR Form D (`17 U.S.C. 105`) | Operating startup raises |
+| 02 | U.S. Federal Recompetes | USASpending (`17 U.S.C. 105`) | 277+ expiring $500K+ awards |
+| 03 | Wealth Management | SEC Form ADV IAPD (`17 U.S.C. 105`) | 12,019+ RIAs & 1,375 Item 11 flags |
+| 04 | Life Sciences & MedTech | NIH RePORTER, ClinicalTrials.gov, openFDA | 2,224+ grants, trials & clearances |
+| 05 | DTC E-Commerce & Retention | Passive public storefront telemetry | 477+ storefronts (ad pixels & Klaviyo) |
+| 06 | Enterprise Cyber & DMARC | Passive Cloudflare DoH & Trust Center | 250+ B2B SaaS posture audits |
+| 07 | U.S. Commercial Freight | U.S. DOT FMCSA (`17 U.S.C. 105`) | 353+ authorized motor carrier fleets |
+| 08 | European & UK Procurement | UK Find a Tender (`OGL v3.0`) & EU TED | 260+ original-currency notices |
 
-- [Hosted MCP directory entry, merged in PR #5881](https://github.com/punkpeye/awesome-remote-mcp-servers/pull/5881)
+## Official Open-Source Repositories (`v1.0.0`)
+- [`sayod111-radar-sdk`](https://github.com/sayod111/sayod111-radar-sdk): Python & TypeScript SDKs with LangGraph, CrewAI, and Clay BYOK examples.
+- [`sayod111-mcp-server`](https://github.com/sayod111/sayod111-mcp-server): Stateless Streamable HTTP MCP quickstart (`server.json`) for Claude Desktop, Cursor, and Windsurf.
+- [`n8n-nodes-sayod111`](https://github.com/sayod111/n8n-nodes-sayod111): Community n8n node for automated Tri-State workflows.
+- [`sayod111-open-benchmarks`](https://github.com/sayod111/sayod111-open-benchmarks): 8 PII-free CSV/JSONL/Parquet sample datasets, OpenAPI 3.1.0 spec, and Postman collection.
 
-## Engineering Standards
-- Zero bloated headless browsers and zero residential proxies where pure async HTTP/2 and DNS run at a fraction of the compute cost.
-- Strict null integrity: unreported regulatory or compliance fields stay explicit `null` or `unknown_unreported` rather than silent zeros.
-- Strictly flat `snake_case` datasets built to drop straight into Clay, n8n, Make, PostgreSQL, and AI agents on the first call.
+## Governance & Commercial Licensing
+- **Legal Boundary:** Public government filings and passive commercial/DNS observation only. Zero LinkedIn scraping, zero consumer PII, zero PHI, zero MNPI.
+- **Tax & Settlement:** Hosted Cloud Data API (`IRS T.D. 10022` / `26 CFR 1.861-19`), signed `Form W-8BEN` ready, instant Corporate Card / US ACH / SEPA via Dodo Payments or SWIFT Wire Invoice.
+- **Principal Desk:** `data@sayod111.com` | `billing@sayod111.com` | Kingdom of Bahrain
